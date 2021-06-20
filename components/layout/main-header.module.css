@@ -5,11 +5,7 @@
   align-items: baseline;
   padding: 1rem 10%;
   height: 5rem;
-  background-color: hsl(0, 0%, 13%);
-}
-
-.header ul {
-  list-style: none;
+  background-color: #202020;
 }
 
 .logo {
